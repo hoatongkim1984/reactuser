@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1"
+        ,"name":"Tong Kim Hoa"
+        ,"phone":"0905226617"
+        ,"permission":"admin"
+    }
+    , 
+    {
+        "id":"2"
+        ,"name":"Vo Chien Thang"
+        ,"phone":"0995534378"
+        ,"permission":"mode"
+    }
+    ,
+    {
+        "id":"3"
+        ,"name":"Vo Quoc Dai"
+        ,"phone":"0933843809"
+        ,"permission":"user"
+    }
+]
